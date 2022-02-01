@@ -1,0 +1,7 @@
+{
+    "mongoURI" : "mongodb+srv://umut123:umut123@devconnectorapp.eqich.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken",
+    "githubSecret" : "f994d524960e70200799630372c11b4e9f5d7b81",
+    "githubClientId" : "3c6bf0aa0c8eccb385ed"
+
+}
